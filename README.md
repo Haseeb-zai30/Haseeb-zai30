@@ -6,6 +6,7 @@
 - 📫 Reach me at: mohdhaseb2004@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy turning complex engineering ideas into practical, real-world solutions
+- portfolio: https://haseeb-zai30.github.io/portfolio/
 <!----  ![Profile views](https://komarev.com/ghpvc/?username=Haseeb-zai30&color=blue)
 - ![Haseeb-zai30's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseeb-zai30&show_icons=true&theme=radical)
 
